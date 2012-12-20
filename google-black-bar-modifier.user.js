@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name       Google black bar modifier
-// @version    0.1
+// @version    1
 // @description  Replaces the links in the black bar on google's homepage by something more useful
 // @match      *.google.*
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js

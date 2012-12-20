@@ -27,7 +27,7 @@ $(function()
     //
     // Append custom entries
     addNewEntry('Google Music', 'https://play.google.com/music/');
-    addNewEntry('Amazon Music', 'https://www.amazon.com/gp/dmusic/mp3/player');
+    addNewEntry('Amazon Cloud Player', 'https://www.amazon.com/gp/dmusic/mp3/player');
     addNewEntry('SZ', 'http://www.sueddeutsche.de');
     addNewEntry('Zeit', 'http://www.zeit.de');
   });
